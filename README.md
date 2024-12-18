@@ -1,5 +1,4 @@
-
-**# Desarrollo de un Sistema de Geolocalización de Amenazas
+### PIBAM - PLATAFORMA INTELIGENTE DE BOMBEROS ALERTA MUNICIPAL
 
 ## Descripción
 Este proyecto universitario tiene como objetivo desarrollar un sistema integral que permita a los ciudadanos de un municipio reportar amenazas de forma eficiente a través de una aplicación móvil y web. El sistema estará conectado con la estación de bomberos local, facilitando una respuesta rápida y organizada ante emergencias.
@@ -67,6 +66,26 @@ Este sistema fomenta la colaboración entre ciudadanos y servicios de emergencia
 
 ---
 
+## Ejemplos Visuales
+
+### Login
+![Login](imagenes/login.jpg)
+
+### Menú Administrador PIBAM
+![Menú Administrador](imagenes/menu_pibam_admin.jpg)
+
+### Generar Punto de Emergencia
+![Generar Punto de Emergencia](imagenes/generar_punto_emergencia.jpg)
+
+### Emergencias
+![Emergencias](imagenes/emergencias.jpg)
+
+### Mapas Históricos
+![Mapa Histórico 1](imagenes/mapa_historico_!.jpg)
+![Mapa Histórico 2](imagenes/mapa_historico_2.jpg)
+![Mapa Histórico 3](imagenes/mapa_historico_3.jpg)
+
+---
+
 ## Licencia
-Este proyecto está licenciado bajo la  BSD-2-Clause license
-**
+Este proyecto está licenciado bajo la BSD-2-Clause license
